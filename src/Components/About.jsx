@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a dedicated iOS developer currently pursuing my studies at the esteemed Northcap University. With a strong passion for open-source projects, I actively contribute to the development community. Additionally, my professional pursuits extend to the field of DevOps, where I maintain a keen interest in staying abreast of the latest trends and technologies.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,10 +33,9 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Mobile Application Devlopment",
+  "iOS Developer",
   "Mobile user interfaces",
-  "Graphic design",
 ];
 
 /**
