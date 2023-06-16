@@ -27,8 +27,8 @@ const siteProps = {
   name: "Pratham Rastogi",
   title: "Web Designer & Developer",
   email: "prathamrastogi5@gmail.com",
-  gitHub: "https://github.com/Pratham-R/",
-  linkedIn: "https://www.linkedin.com/in/prathamrastogi/",
+  gitHub: "Pratham-R/",
+  linkedIn: "prathamrastogi/",
 };
 
 const primaryColor = "#4E567E";
